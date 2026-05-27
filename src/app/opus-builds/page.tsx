@@ -62,7 +62,7 @@ export default function OpusBuildsPage() {
         >
           <div className="relative w-full aspect-square rounded-3xl overflow-hidden shadow-premium border border-brand-salt/10">
             <Image 
-              src="/images/opus-lush.png" 
+              src="/images/opus_hero_new.jpg" 
               alt="Clean architectural masterplan blueprint" 
               fill 
               className="object-cover"

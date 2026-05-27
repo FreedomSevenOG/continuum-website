@@ -49,7 +49,7 @@ export default function Home() {
           className="flex-1 w-full relative aspect-[4/5] md:aspect-square rounded-3xl overflow-hidden shadow-premium"
         >
           <Image 
-            src="/images/hero-lush.png" 
+            src="/images/home_hero_new.jpg" 
             alt="Warm minimalist workspace" 
             fill 
             className="object-cover"
